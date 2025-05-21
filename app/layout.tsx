@@ -34,8 +34,11 @@ export const metadata: Metadata = {
   title: 'PDF Merger | Combine PDFs Online for Free',
   description: 'Merge multiple PDF files into a single document quickly and easily. No installation or registration required. 100% free and secure.',
   keywords: 'PDF merger, combine PDF, merge PDF files, PDF joiner, PDF combiner, online PDF tools',
-  viewport: 'width=device-width, initial-scale=1.0',
-  themeColor: '#2563eb',
+  viewport:{
+    width: 'device-width',
+    initialScale: 1,
+  },
+  themeColor: '#000000',
   openGraph: {
     title: 'PDF Merger | Combine PDFs Online for Free',
     description: 'Merge multiple PDF files into a single document quickly and easily. No installation or registration required.',
