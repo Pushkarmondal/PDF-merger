@@ -15,7 +15,7 @@ A modern, user-friendly web application for merging multiple PDF files into a si
 ### Prerequisites
 
 - Node.js 18 or later
-- npm or yarn
+- npm or yarn(use this for better result)
 
 ### Installation
 
